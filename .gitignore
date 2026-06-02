@@ -1,0 +1,59 @@
+﻿# --- OS generated files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# --- Windows ---
+\.BIN/
+
+# --- Temp files ---
+*.tmp
+*.temp
+*.log
+*.cache
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# --- Node.js ---
+node_modules/
+npm-debug.log*
+
+# --- Java ---
+*.class
+*.jar
+*.war
+target/
+
+# --- .NET ---
+bin/
+obj/
+*.user
+*.suo
+
+# --- Archives ---
+*.zip
+*.tar.gz
+*.rar
+*.7z

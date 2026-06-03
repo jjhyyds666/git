@@ -59,5 +59,4 @@ obj/
 *.7z
 
 # --- Installers ---
-*.msi
 *.exe
